@@ -1,0 +1,32 @@
+{
+    "endOfLine": "auto",
+    "printWidth": 180,
+    "htmlWhitespaceSensitivity": "css",
+    "semi": false,
+    "singleQuote": false,
+    "tabWidth": 4,
+    "trailingComma": "none",
+    "useTabs": false,
+    "overrides": [
+        {
+            "files": ["*.vue"],
+            "options": {
+                "semi": false,
+                "trailingComma": "none",
+                "singleQuote": false,
+                "tabWidth": 4
+            }
+        },
+        {
+            "files": "*.json",
+            "options": {
+                "printWidth": 200,
+                "tabWidth": 4,
+                "semi": false,
+                "singleQuote": false,
+                "bracketSpacing": true,
+                "trailingComma": "all"
+            }
+        }
+    ]
+}
