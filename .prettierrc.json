@@ -4,7 +4,7 @@
     "htmlWhitespaceSensitivity": "css",
     "semi": false,
     "singleQuote": false,
-    "tabWidth": 4,
+    "tabWidth": 2,
     "trailingComma": "none",
     "useTabs": false,
     "overrides": [
@@ -14,14 +14,14 @@
                 "semi": false,
                 "trailingComma": "none",
                 "singleQuote": false,
-                "tabWidth": 4
+                "tabWidth": 2
             }
         },
         {
             "files": "*.json",
             "options": {
                 "printWidth": 200,
-                "tabWidth": 4,
+                "tabWidth": 2,
                 "semi": false,
                 "singleQuote": false,
                 "bracketSpacing": true,
